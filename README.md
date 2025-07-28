@@ -29,3 +29,4 @@ This project implements a complete **UART (Universal Asynchronous Receiver Trans
    ```sh
    vlog -sv uart_top.sv uart_tb.sv
    vsim uart_tb
+
